@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mapa da Curiosidade 🌎</title>
+
+  <!-- Fonte moderna -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+
+  <!-- Estilo personalizado -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Leaflet (biblioteca de mapas) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+  <!-- Painel lateral com informações -->
+  <div class="sidebar">
+    <h2>🌍 Mapa da Curiosidade</h2>
+    <img id="flag" src="imagens/brasil.png" alt="Bandeira do país" class="flag-img" />
+    <div id="country-name">Brasil</div>
+    <div id="country-info">
+      O Brasil possui a maior biodiversidade do mundo.
+    </div>
+
+    <div class="button-container">
+      <button onclick="surpreenda()">Me surpreenda!</button>
+    </div>
+  </div>
+
+  <!-- Mapa interativo -->
+  <div id="map"></div>
+
+  <!-- Script do projeto -->
+  <script src="script.js"></script>
+</body>
+</html>
