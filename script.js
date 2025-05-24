@@ -171,7 +171,7 @@ const countries = [
   {
     name: "Noruega",
     curiosity: "Na Noruega, o sol pode não se pôr por semanas no verão, no norte do país!",
-    flag: "imagens/noruega.png",
+    flag: "imagens/Noruega.PNG",
     lat: 60.4720,
     lng: 8.4689
   },
