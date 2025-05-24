@@ -80,7 +80,7 @@ const countries = [
   {
     nome: "China",
     curiosity: "A Grande Muralha da China tem mais de 21.000 quilômetros de extensão.",
-    flag: "imagens/china.png",
+    flag: "imagens/China.png",
     lat: 39.9042,
     lng: 116.4074
   },
