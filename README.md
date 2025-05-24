@@ -1,4 +1,5 @@
 # 🌍 Mapa da Curiosidade
+LINK PARA ACESSAR O SITE :  https://esterborba0407.github.io/mapa-da-curiosidade/
 
 **Mapa da Curiosidade** é um web app interativo que combina mapas com curiosidades sobre diferentes países. Ao clicar em um país ou pressionar o botão "Me surpreenda!", você descobre uma informação interessante sobre aquela nação.
 
