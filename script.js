@@ -108,7 +108,7 @@ const countries = [
   {
     name: "Canadá",
     curiosity: "O Canadá tem mais lagos do que todos os outros países juntos!",
-    flag: "imagens/canada.png",
+    flag: "imagens/Canada.png",
     lat: 56.1304,
     lng: -106.3468
   },  
