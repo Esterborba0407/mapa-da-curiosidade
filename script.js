@@ -227,14 +227,14 @@ const countries = [
   {
     name: "Bahamas",
     curiosity: "As Bahamas têm águas tão claras que você pode ver o fundo do mar a 60 metros de profundidade!",
-    flag: "imagens/bahamas.png",
+    flag: "imagens/Bahamas.png",
     lat: 25.0343,
     lng: -77.3963
   },
   {
     name: "Austrália",
     curiosity: "A Austrália tem mais cangurus do que habitantes.",
-    flag: "imagens/australia.png",
+    flag: "imagens/Australia.png",
     lat: -25.2744,
     lng: 133.7751
   },
